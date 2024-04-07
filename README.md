@@ -1,4 +1,4 @@
-# oan-Defaulters-Classifier
+# Loan-Defaulters-Classifier
 Loan Repayment Assessment in Banking
 
 ##Overview
