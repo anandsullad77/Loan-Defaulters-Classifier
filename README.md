@@ -1,10 +1,4 @@
-# Loan-Defaulters-Classifier
-Loan Repayment Assessment in Banking
-
-##Overview
-This project is done as a hackthon in my internship with upgrad. The dataset includes the 80,000 records and 28 features that can be used for training the model. 
-
-# Loan Repayment Assessment in Banking
+# Loan Repayment Assessment in Banking - Classifier
 
 ## Project Overview
 Welcome to my submission for the KnowledgeHut AI Hackathon – Loan Repayment Assessment in Banking. This project aims to build and train a model to predict whether a customer will repay or default on a loan, using a dataset provided for the hackathon.
