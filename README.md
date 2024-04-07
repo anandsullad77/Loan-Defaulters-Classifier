@@ -4,8 +4,8 @@
 Welcome to my submission for the KnowledgeHut AI Hackathon – Loan Repayment Assessment in Banking. This project aims to build and train a model to predict whether a customer will repay or default on a loan, using a dataset provided for the hackathon.
 
 ### Author
-Anand Sullad
-anandsullad777@gmail.com
+ - Anand Sullad
+ - anandsullad777@gmail.com
 
 ### Tools and Technologies
 - Python
